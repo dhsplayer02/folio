@@ -7,3 +7,7 @@ My hobbies
 * eating
 * sleeping
 * studying
+
+My education
+1. ABC Primary School
+2. Dunman High School
